@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">我的助理</string>
+    <string name="nav_home">首页</string>
+    <string name="nav_list">列表</string>
+    <string name="nav_search">搜索</string>
+    <string name="nav_settings">设置</string>
+    <string name="settings_api_key">MiniMax API 密钥</string>
+    <string name="settings_api_key_hint">输入 MiniMax API Key</string>
+    <string name="settings_monitor_switch">截图监控</string>
+    <string name="settings_auto_analyze">自动分析</string>
+    <string name="monitor_notification_channel">截图监控</string>
+    <string name="monitor_notification_title">正在监控截图</string>
+    <string name="monitor_notification_text">检测到新截图时将自动分析…</string>
+    <string name="monitor_running">监控中</string>
+    <string name="monitor_paused">已暂停</string>
+    <string name="search_hint">搜索卡片…</string>
+    <string name="action_edit">编辑</string>
+    <string name="action_reanalyze">重新分析</string>
+    <string name="action_archive">归档</string>
+    <string name="action_delete">删除</string>
+    <string name="category_all">全部</string>
+</resources>
