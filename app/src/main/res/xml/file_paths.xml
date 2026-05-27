@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <external-path name="screenshots" path="Pictures/Screenshots/" />
+    <external-path name="dcim" path="DCIM/Screenshots/" />
+    <cache-path name="compressed_images" path="compressed/" />
+</paths>
